@@ -2,7 +2,7 @@
 **Como** Usuario, **quiero** poder elegir entre Loguearme e iniciar sesión.
 
 ## Historia de Usuario 2
-**Como** Usuario, **quiero** poder crear un prestamo con la información necesaria.
+**Como** Usuario, **quiero** poder llenar un formulario para poder crear un prestamo con la información necesaria.
 
 
 ## Historia de Usuario 3
