@@ -1,8 +1,17 @@
-# React + Vite
+## Historia de Usuario 1
+**Como** Usuario, **quiero** poder elegir entre Loguearme e iniciar sesión.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Historia de Usuario 2
+**Como** Usuario, **quiero** poder crear un prestamo con la información necesaria.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Historia de Usuario 3
+**Como** Usuario, **quiero** poder visualizar los prestamos que tengo activos actualmente.
+
+
+## Historia de Usuario 4
+**Como** Usuario, **quiero** poder visualizar las deudas que tengo activas actualmente.
+
+
+## Historia de Usuario 5
+**Como** Usuario, **quiero** poder elegir salir del aplicativo.
